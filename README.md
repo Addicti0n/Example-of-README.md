@@ -1,1 +1,1 @@
-### STAT WITH R
+### *Example of README.md*
